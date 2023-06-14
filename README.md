@@ -32,8 +32,10 @@
 
 <br><br>
 
-Contacts <br><br>
-Email: alexisrealesb@gmail.com |
-Discord: hidenorie#5625
+<footer>
+  Contact me at <br><br>
+  <p justify-content='center';>Email: alexisrealesb@gmail.com Discord: hidenorie#5625</p>
+<footer>
+
 
   
