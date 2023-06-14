@@ -32,10 +32,10 @@
 
 <br><br>
 
-<footer justify-content='center'>
+<footer align='center'>
   Contact me at <br><br>
   <p>Email: alexisrealesb@gmail.com Discord: hidenorie#5625</p>
-<footer>
+</footer>
 
 
   
