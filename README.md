@@ -17,25 +17,20 @@
 
   <img align="center" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
-  <img align="center" height="30"  width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+  <img align="center" height="30"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
-
   
   ##
-  
-  <div align="center"> 
 
-  <a href = "mailto:alexisrealesb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- 
-</div>
 
 <br><br>
 
 <div align="center">
   Contact me at: <br>
-  <p>Email: alexisrealesb@gmail.com Discord: hidenorie#5625</p>
+      <a href="https://www.linkedin.com/in/alexisreales/">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin" height="30" width="90">
+       </a>
+       <a href="mailto:alexisrealesb@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-lightgrey?style=plastic&logo=gmail" height="30" width="90">
+    </a>
 </div>
-
-
-  
