@@ -1,6 +1,6 @@
 ### Hey, i'm Alexis Reales!
  
-- I'm 17; <br>
+- I'm 18; <br>
 - I prefer the backend development; <br>
 - I'm learning JavaScript, Typescript and something of Python; <br>
  
