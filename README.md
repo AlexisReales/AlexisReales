@@ -5,7 +5,7 @@
 
 - I'm 18; <br>
 - I work as a Full-Stack developer; <br>
-- My habilities are <strong>JavaScript, HTML, CSS, PHP and NExtJs</strong>; <br>
+- My habilities are <strong>JavaScript, HTML, CSS, PHP and NextJs</strong>; <br>
 - I'm studying Software Engineering on Estácio; <br> <br>
 
  
